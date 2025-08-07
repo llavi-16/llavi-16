@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Pallavi Singh.
-- 👀 I’m interested in ...
+(- 👋 Hi, I’m Pallavi Singh 
 - 🌱 I’m currently persuading btech
 - 💞️ I’m looking to collaborate on ...
 - 📫 pallavisingh16th@gmail.com
